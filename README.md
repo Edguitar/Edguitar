@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 🔭 Actualmente trabajo para Willdom<br>🌱 En constante aprendizaje actualmente estudiando azure cloud<br>💬 Me gusto mucho el desarrollo front y  <br>
 
 
