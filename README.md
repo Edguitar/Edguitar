@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-🔭 Actualmente trabajo para Willdom<br>🌱 En constante aprendizaje actualmente estudiando azure cloud<br>💬 Me gusto mucho el desarrollo front <br>
+🔭 Actualmente trabajo para Oncedev<br>🌱 En constante aprendizaje actualmente estudiando azure cloud<br>💬 Me gusto mucho el desarrollo front <br>
 <br>:musical_note:Me gusta el buen Metal :metal: <br>
 
 
